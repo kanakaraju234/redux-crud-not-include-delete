@@ -1,0 +1,95 @@
+{
+  "details": [
+    {
+      "name": "raju",
+      "email": "sksksk@gmail.com",
+      "phone": "123456789",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "name": "raju3",
+      "email": "sksksk3@gmail.com",
+      "phone": "1234567893",
+      "country": "Singapore-s",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "raju4",
+      "email": "sksksk4@gmail.com",
+      "phone": "1234567894",
+      "country": "US"
+    },
+    {
+      "name": "raju5",
+      "email": "sksksk5@gmail.com",
+      "phone": "1234567895",
+      "country": "Canadas",
+      "id": 5
+    },
+    {
+      "name": "siva",
+      "email": "siva@gam.com",
+      "phone": "23223322",
+      "country": "UK",
+      "id": 6
+    },
+    {
+      "name": "mahesh",
+      "email": "mahesh@gmai.com",
+      "phone": "123455",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@gml.com",
+      "phone": "232232232",
+      "country": "Japan",
+      "id": 8
+    },
+    {
+      "name": "maha",
+      "email": "maha@gmail.com",
+      "phone": "222322",
+      "country": "India",
+      "id": 9
+    },
+    {
+      "name": "john-s3",
+      "email": "john@gmail.com",
+      "phone": "2323232323",
+      "country": "Afghanistans",
+      "id": 10
+    },
+    {
+      "name": "venkat",
+      "email": "venkat@gm.com",
+      "phone": "4949349",
+      "country": "Uganda",
+      "id": 11
+    },
+    {
+      "name": "Pugal",
+      "email": "pugal@gmail.com",
+      "phone": "232224242",
+      "country": "canada",
+      "id": 12
+    },
+    {
+      "name": "Nidhi",
+      "email": "Nidhi@gmail.com",
+      "phone": "949499949494",
+      "country": "India",
+      "id": 13
+    },
+    {
+      "name": "balaji",
+      "email": "balaji@gmail.com",
+      "phone": "848484884",
+      "country": "India",
+      "id": 14
+    }
+  ]
+}
